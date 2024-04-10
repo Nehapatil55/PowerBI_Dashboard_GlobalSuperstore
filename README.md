@@ -1,4 +1,4 @@
-# PowerBI_Dashboard_GlobalSuperstore
+![image](https://github.com/Nehapatil55/PowerBI_Dashboard_GlobalSuperstore/assets/95535184/978feef0-1029-440a-9cfa-d378e433afc7)# PowerBI_Dashboard_GlobalSuperstore
 
 ## Problem Statement
 
@@ -6,8 +6,7 @@ A company wants to gain insights into its sales performance and key metrics to i
 
  ## Report Snapshot
 
- 
-
+![image](https://github.com/Nehapatil55/PowerBI_Dashboard_GlobalSuperstore/assets/95535184/770bf3fe-3af8-4796-b1c2-0b6f94bb2427) 
 
 ## Steps 
 # 1.	Data Collection and Preparation:
