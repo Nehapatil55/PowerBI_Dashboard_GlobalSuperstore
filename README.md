@@ -1,4 +1,4 @@
-![image](https://github.com/Nehapatil55/PowerBI_Dashboard_GlobalSuperstore/assets/95535184/978feef0-1029-440a-9cfa-d378e433afc7)# PowerBI_Dashboard_GlobalSuperstore
+# PowerBI_Dashboard_GlobalSuperstore
 
 ## Problem Statement
 
